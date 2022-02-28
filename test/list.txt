@@ -1,1 +1,4 @@
-- load_iris()
+list dataset:
+- load_iris
+- load_wine
+- load_breast_cancer
